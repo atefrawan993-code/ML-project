@@ -147,5 +147,5 @@ The top predictors of student depression identified by the model:
 ## link of video presentation 
 https://drive.google.com/file/d/10tOsm3Znxb2M-pWJIFChtnw8Z-Z3XniU/view?usp=sharing
 
-##link of  live app
+## link of  live app
 https://student-depression-prediction-ml.streamlit.app
